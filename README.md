@@ -8,3 +8,5 @@ The data used in the visualization, training and testing of the aforementioned m
 This dataset contains 21 features and 11,829 cases, where each case is a player. Out of the 21 features, only one is a categorical feature.
 
 In terms of the number of classes, the dataset contain four classes and they span across all the outfield positions. The trained machine learning algorithms will use the features listed above to classify each case to a position. The classes “CB”, “FB”, “CM” and “ST” populate about 26.1%, 23.5%, 22.5% and 27.9% of the dataset respectively. Since the classes are not extremely imbalanced, implementing more balancing techniques was not required.
+
+Kaggle dataset link: https://www.kaggle.com/karangadiya/fifa19
