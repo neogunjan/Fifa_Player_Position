@@ -5,4 +5,5 @@ One of the main factors that increases a team’s chance at winning games is pla
 
 The data used in the visualization, training and testing of the aforementioned models was obtained from kaggle.com. The full project is decribed in detail in the Wiki section.
 
+Project implemented in R and R-studio
 Kaggle dataset link: https://www.kaggle.com/karangadiya/fifa19
